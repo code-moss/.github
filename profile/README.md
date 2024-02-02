@@ -25,11 +25,12 @@
 
 ### ⭐️ 我们的项目
 
-| [**🤖 CodeMoss**][lobe-chat-github]<br/>主站开源代码<br/><br/>[![][lobe-chat-shield]][lobe-chat-github]                      | [![][lobe-chat-cover]][lobe-chat-github]     |
+| [**🤖 CodeMoss**][lobe-chat-github]<br/>全流程AI工具库<br/><br/>[![][lobe-chat-shield]][lobe-chat-github]                      | [![][lobe-chat-cover]][lobe-chat-github]     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
 | [**🤯 CodeMoss Db**][lobe-theme-github]<br/>类似文件系统的向量数据库<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                     | [![][lobe-theme-cover]][lobe-theme-github]   |
 | [**💌 CodeMoss Flow**][lobe-commit-github]<br/>流程编排功能<br/><br/>[![][lobe-commit-shield]][lobe-commit-npm]                                                                                                  | [![][lobe-commit-cover]][lobe-commit-github] |
-| [**🌏 CodeMoss UI**][lobe-i18n-github]<br/>CodeMoss UI组件库<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
+| [**🌏 CodeMoss Web**][lobe-i18n-github]<br/>CodeMoss 主站开源代码<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
+| [**🌏 CodeMoss UI**][lobe-i18n-github]<br/>CodeMoss AI组件库<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 | [**🌏 CodeMoss Plugins**][lobe-i18n-github]<br/>插件系统<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 | [**🌏 CodeMoss Api**][lobe-i18n-github]<br/>国内/国外 大模型统一接口项目<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 | [**🌏 CodeMoss Agent**][lobe-i18n-github]<br/>助理系统<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
